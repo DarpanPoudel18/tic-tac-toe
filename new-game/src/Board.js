@@ -116,7 +116,7 @@ const Cell = ({num}) => {
             </table>
             {winMessage &&
               <div>
-              <p className="win-text">{winMessage} le jito badhai chha!!</p>
+              <p className="win-text">{winMessage} la congrats vaiii!!</p>
               <button className="btn" onClick={Restart}>Feri khelne?</button>
               </div>
             }
