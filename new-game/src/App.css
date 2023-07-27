@@ -77,9 +77,15 @@ p{
 }
 
 
+.text{
+  color:white;
+  border-bottom: 6px solid yellow;
+  width:16%;
+}
 
 .btn{
-  background: yellow;
+  background: crimson;
+  color:white;
   display: inline-block;
   padding: 0.25rem 0.5rem;
   cursor: pointer;
